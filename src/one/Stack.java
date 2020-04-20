@@ -1,4 +1,4 @@
-package Three;
+package one;
 
 /**
  * 利用数组实现堆栈

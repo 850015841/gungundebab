@@ -1,6 +1,4 @@
-package two;
-
-import java.util.Map;
+package one;
 
 /**
  * 问题2:处理缓存
